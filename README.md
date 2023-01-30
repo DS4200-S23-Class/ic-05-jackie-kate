@@ -1,11 +1,7 @@
 # ic-05
 ic-05 - Intro to JavaScript
 
-<<<<<<< HEAD
 Link to GitHub Pages: `https://ds4200-s23-class.github.io/ic-05-jackie-kate/`
-=======
-Link to GitHub Pages: `https://ds4200-s23-class.github.io/ic-05-jackie-kate/`
->>>>>>> 2404574 (done)
 
 ## Purpose
 
